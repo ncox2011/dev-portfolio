@@ -108,7 +108,10 @@ class HomeIndex extends React.Component {
                         }))} />
 
                         <ul className="actions">
-                            <li><a href="#" className="button">Full Portfolio</a></li>
+                            <li><a href="http://nc-the-lazy-foodie.s3-website.us-east-2.amazonaws.com/" className="button">Lazy Foodie Site</a></li>
+                        </ul>
+                        <ul className="actions">
+                            <li><a href="#" className="button">Backend Site</a></li>
                         </ul>
                     </section>
 
