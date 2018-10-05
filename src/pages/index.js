@@ -14,7 +14,7 @@ import full01 from '../assets/images/fulls/01.jpg'
 
 
 const DEFAULT_IMAGES = [
-    { id: '1', src: fulllfsnippet2, thumbnail: thumblfsnippet2, caption: 'The Lazy Foodie', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
+    { id: '1', src: fulllfsnippet2, thumbnail: thumblfsnippet2, caption: 'The Lazy Foodie', description: 'Recipe application that allows user to search for recipes using ingredients on hand.  Created with Reactjs and Bloomer/Bulma CSS frameworks.'},
     { id: '2', src: full01, thumbnail: thumb01, caption: 'Back-end Capstone TBD', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
     // { id: '3', src: full03, thumbnail: thumb03, caption: 'Photo 3', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
     // { id: '4', src: full04, thumbnail: thumb04, caption: 'Photo 4', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
@@ -90,11 +90,8 @@ class HomeIndex extends React.Component {
                             incorporate my interests in creativity and problem solving, I was referred to coding websites by a friend
                             and once I got started I knew this was the right fit.  <br/> I decided to move from my hometown in Blacksburg, VA 
                             to Nashville, TN to start a 6-month Full-Stack Developer Bootcamp.  It's been the greatest learning experience of my life.
-                            Skills include: ReactJs, JavaScript, ASP.NET, C#, CSS and HTML.
+                            Skills include: ReactJs, JavaScript, ASP.NET, SQLlite, SQL Server, C#, CSS and HTML.
                         </p>
-                        <ul className="actions">
-                            <li><a href="#" className="button">Learn More</a></li>
-                        </ul>
                     </section>
 
                     <section id="two">
