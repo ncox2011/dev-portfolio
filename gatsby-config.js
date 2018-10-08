@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+
     title: "Natasha Cox Dev Site",
     author: "Natasha Cox.  Template by Hunter Chang",
     description: "A Gatsby.js Starter based on Strata by HTML5 UP"
